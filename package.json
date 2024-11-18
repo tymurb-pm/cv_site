@@ -8,6 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
+    "engines": {"node": "18.x"},
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.0",
